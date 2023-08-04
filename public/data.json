@@ -1,0 +1,422 @@
+[
+  {
+    "location": "Downtown",
+    "address": "123 Main St",
+    "price": 2000,
+    "property type": "Apartment",
+    "name": "Cozy Apartment",
+    "beds": 2,
+    "bathroom": 1,
+    "area": 800,
+    "move in date": {
+      "start_date": "2023-08-15",
+      "end_date": "2023-08-31"
+    }
+  },
+  {
+    "location": "Suburbia",
+    "address": "456 Park Ave",
+    "price": 3000,
+    "property type": "House",
+    "name": "Spacious House",
+    "beds": 4,
+    "bathroom": 2,
+    "area": 1500,
+    "move in date": {
+      "start_date": "2023-09-01",
+      "end_date": "2023-09-15"
+    }
+  },
+  {
+    "location": "City Center",
+    "address": "789 Broad St",
+    "price": 1800,
+    "property type": "Apartment",
+    "name": "Modern Studio",
+    "beds": 1,
+    "bathroom": 1,
+    "area": 600,
+    "move in date": {
+      "start_date": "2023-08-20",
+      "end_date": "2023-08-31"
+    }
+  },
+  {
+    "location": "Quiet Suburb",
+    "address": "1010 Elm Rd",
+    "price": 2500,
+    "property type": "House",
+    "name": "Family Home",
+    "beds": 3,
+    "bathroom": 2,
+    "area": 1200,
+    "move in date": {
+      "start_date": "2023-09-15",
+      "end_date": "2023-09-30"
+    }
+  },
+  {
+    "location": "Downtown",
+    "address": "111 Pine St",
+    "price": 3200,
+    "property type": "Condo",
+    "name": "Luxury Condo",
+    "beds": 2,
+    "bathroom": 2,
+    "area": 1000,
+    "move in date": {
+      "start_date": "2023-08-25",
+      "end_date": "2023-09-10"
+    }
+  },
+  {
+    "location": "Suburbia",
+    "address": "222 Oak Ave",
+    "price": 2800,
+    "property type": "House",
+    "name": "Cozy Cottage",
+    "beds": 3,
+    "bathroom": 2,
+    "area": 1100,
+    "move in date": {
+      "start_date": "2023-09-10",
+      "end_date": "2023-09-25"
+    }
+  },
+  {
+    "location": "City Center",
+    "address": "333 Elm St",
+    "price": 2100,
+    "property type": "Apartment",
+    "name": "Charming Loft",
+    "beds": 1,
+    "bathroom": 1,
+    "area": 700,
+    "move in date": {
+      "start_date": "2023-08-18",
+      "end_date": "2023-08-31"
+    }
+  },
+  {
+    "location": "Quiet Suburb",
+    "address": "444 Maple Rd",
+    "price": 2700,
+    "property type": "House",
+    "name": "Spacious Retreat",
+    "beds": 4,
+    "bathroom": 2,
+    "area": 1400,
+    "move in date": {
+      "start_date": "2023-09-05",
+      "end_date": "2023-09-20"
+    }
+  },
+  {
+    "location": "Downtown",
+    "address": "555 Walnut St",
+    "price": 1900,
+    "property type": "Apartment",
+    "name": "Sunny Penthouse",
+    "beds": 1,
+    "bathroom": 1,
+    "area": 750,
+    "move in date": {
+      "start_date": "2023-08-21",
+      "end_date": "2023-08-31"
+    }
+  },
+  {
+    "location": "Suburbia",
+    "address": "666 Cedar Ave",
+    "price": 2900,
+    "property type": "House",
+    "name": "Family Haven",
+    "beds": 3,
+    "bathroom": 2,
+    "area": 1300,
+    "move in date": {
+      "start_date": "2023-09-12",
+      "end_date": "2023-09-30"
+    }
+  },
+  {
+    "location": "City Center",
+    "address": "777 Rose St",
+    "price": 2200,
+    "property type": "Apartment",
+    "name": "Modern Condo",
+    "beds": 2,
+    "bathroom": 2,
+    "area": 900,
+    "move in date": {
+      "start_date": "2023-08-22",
+      "end_date": "2023-08-31"
+    }
+  },
+  {
+    "location": "Quiet Suburb",
+    "address": "888 Willow Rd",
+    "price": 2600,
+    "property type": "House",
+    "name": "Cozy Retreat",
+    "beds": 3,
+    "bathroom": 2,
+    "area": 1100,
+    "move in date": {
+      "start_date": "2023-09-07",
+      "end_date": "2023-09-20"
+    }
+  },
+  {
+    "location": "Downtown",
+    "address": "999 Oak St",
+    "price": 1800,
+    "property type": "Apartment",
+    "name": "Stylish Loft",
+    "beds": 1,
+    "bathroom": 1,
+    "area": 700,
+    "move in date": {
+      "start_date": "2023-08-19",
+      "end_date": "2023-08-31"
+    }
+  },
+  {
+    "location": "Suburbia",
+    "address": "777 Maple Ave",
+    "price": 3100,
+    "property type": "House",
+    "name": "Spacious Family Home",
+    "beds": 4,
+    "bathroom": 3,
+    "area": 1800,
+    "move in date": {
+      "start_date": "2023-09-25",
+      "end_date": "2023-09-30"
+    }
+  },
+  {
+    "location": "City Center",
+    "address": "666 Cherry St",
+    "price": 2300,
+    "property type": "Apartment",
+    "name": "Urban Living",
+    "beds": 2,
+    "bathroom": 1,
+    "area": 850,
+    "move in date": {
+      "start_date": "2023-08-20",
+      "end_date": "2023-08-31"
+    }
+  },
+  {
+    "location": "Quiet Suburb",
+    "address": "555 Birch Rd",
+    "price": 2800,
+    "property type": "House",
+    "name": "Home Sweet Home",
+    "beds": 3,
+    "bathroom": 2,
+    "area": 1200,
+    "move in date": {
+      "start_date": "2023-09-01",
+      "end_date": "2023-09-10"
+    }
+  },
+  {
+    "location": "Downtown",
+    "address": "444 Elm St",
+    "price": 1950,
+    "property type": "Apartment",
+    "name": "Bright Studio",
+    "beds": 1,
+    "bathroom": 1,
+    "area": 650,
+    "move in date": {
+      "start_date": "2023-08-20",
+      "end_date": "2023-08-31"
+    }
+  },
+  {
+    "location": "Suburbia",
+    "address": "333 Cedar Ave",
+    "price": 2700,
+    "property type": "House",
+    "name": "Serene Retreat",
+    "beds": 4,
+    "bathroom": 2,
+    "area": 1400,
+    "move in date": {
+      "start_date": "2023-09-05",
+      "end_date": "2023-09-15"
+    }
+  },
+  {
+    "location": "City Center",
+    "address": "222 Oak St",
+    "price": 2400,
+    "property type": "Apartment",
+    "name": "Elegant Penthouse",
+    "beds": 2,
+    "bathroom": 2,
+    "area": 1000,
+    "move in date": {
+      "start_date": "2023-08-25",
+      "end_date": "2023-08-31"
+    }
+  },
+  {
+    "location": "Quiet Suburb",
+    "address": "111 Maple Rd",
+    "price": 2300,
+    "property type": "House",
+    "name": "Charming Bungalow",
+    "beds": 3,
+    "bathroom": 2,
+    "area": 1100,
+    "move in date": {
+      "start_date": "2023-09-10",
+      "end_date": "2023-09-20"
+    }
+  },
+  {
+    "location": "Downtown",
+    "address": "777 Pine St",
+    "price": 2100,
+    "property type": "Apartment",
+    "name": "Urban Living",
+    "beds": 1,
+    "bathroom": 1,
+    "area": 700,
+    "move in date": {
+      "start_date": "2023-08-22",
+      "end_date": "2023-08-31"
+    }
+  },
+  {
+    "location": "Suburbia",
+    "address": "888 Oak Ave",
+    "price": 2900,
+    "property type": "House",
+    "name": "Family Retreat",
+    "beds": 3,
+    "bathroom": 2,
+    "area": 1200,
+    "move in date": {
+      "start_date": "2023-09-05",
+      "end_date": "2023-09-15"
+    }
+  },
+  {
+    "location": "City Center",
+    "address": "999 Elm St",
+    "price": 1900,
+    "property type": "Apartment",
+    "name": "Cozy Studio",
+    "beds": 1,
+    "bathroom": 1,
+    "area": 650,
+    "move in date": {
+      "start_date": "2023-08-19",
+      "end_date": "2023-08-31"
+    }
+  },
+  {
+    "location": "Quiet Suburb",
+    "address": "777 Birch Rd",
+    "price": 2600,
+    "property type": "House",
+    "name": "Serenity House",
+    "beds": 3,
+    "bathroom": 2,
+    "area": 1100,
+    "move in date": {
+      "start_date": "2023-09-07",
+      "end_date": "2023-09-20"
+    }
+  },
+  {
+    "location": "Downtown",
+    "address": "666 Oak St",
+    "price": 2200,
+    "property type": "Apartment",
+    "name": "Modern Living",
+    "beds": 2,
+    "bathroom": 2,
+    "area": 900,
+    "move in date": {
+      "start_date": "2023-08-20",
+      "end_date": "2023-08-31"
+    }
+  },
+  {
+    "location": "Suburbia",
+    "address": "555 Cedar Ave",
+    "price": 3000,
+    "property type": "House",
+    "name": "Spacious Haven",
+    "beds": 4,
+    "bathroom": 3,
+    "area": 1800,
+    "move in date": {
+      "start_date": "2023-09-25",
+      "end_date": "2023-09-30"
+    }
+  },
+  {
+    "location": "City Center",
+    "address": "444 Elm St",
+    "price": 2300,
+    "property type": "Apartment",
+    "name": "Modern Loft",
+    "beds": 2,
+    "bathroom": 1,
+    "area": 850,
+    "move in date": {
+      "start_date": "2023-08-20",
+      "end_date": "2023-08-31"
+    }
+  },
+  {
+    "location": "Quiet Suburb",
+    "address": "333 Birch Rd",
+    "price": 2800,
+    "property type": "House",
+    "name": "Cozy Haven",
+    "beds": 3,
+    "bathroom": 2,
+    "area": 1200,
+    "move in date": {
+      "start_date": "2023-09-01",
+      "end_date": "2023-09-10"
+    }
+  },
+  {
+    "location": "Downtown",
+    "address": "222 Pine St",
+    "price": 1950,
+    "property type": "Apartment",
+    "name": "Bright Studio",
+    "beds": 1,
+    "bathroom": 1,
+    "area": 650,
+    "move in date": {
+      "start_date": "2023-08-20",
+      "end_date": "2023-08-31"
+    }
+  },
+  {
+    "location": "Suburbia",
+    "address": "111 Cedar Ave",
+    "price": 2900,
+    "property type": "House",
+    "name": "Family Retreat",
+    "beds": 3,
+    "bathroom": 2,
+    "area": 1200,
+    "move in date": {
+      "start_date": "2023-09-10",
+      "end_date": "2023-09-20"
+    }
+  }
+]
